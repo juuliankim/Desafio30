@@ -1,0 +1,1 @@
+2021/09/26 16:28:40 [error] 5232#4356: *1 CreateFile() "C:\Users\Kimta\Desktop\Backend\Desafios\Desafio30\Desafio30\nginx-1.21.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
